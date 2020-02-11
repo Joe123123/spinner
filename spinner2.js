@@ -1,3 +1,5 @@
+// pair-coded with Aidan Middleton
+
 const spin = timelimit => {
   let spinnerArr = ["|", "/", "-", "\\"];
   let timeout = 0;
